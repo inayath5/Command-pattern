@@ -1,5 +1,5 @@
 
-public interface FolderCommand {
+public interface BallonCommand {
 	
 	public void execute();
 
